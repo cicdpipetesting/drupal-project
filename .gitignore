@@ -1,0 +1,6 @@
+/vendor/
+/sites/*/files/
+/sites/*/settings.local.php
+/.idea/
+/.vscode/
+.DS_Store
